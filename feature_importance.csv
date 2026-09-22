@@ -1,0 +1,11 @@
+feature,importance
+capital.gain,0.1857827989743253
+marital.status_Married-civ-spouse,0.18546508782696958
+education.num,0.12624870879524674
+age,0.07662089157282365
+marital.status_Never-married,0.06777704911194017
+hours.per.week,0.06258433768301996
+capital.loss,0.04522636809388929
+relationship_Not-in-family,0.04054354238428131
+relationship_Own-child,0.03146117009107691
+occupation_Exec-managerial,0.03134899739530291
